@@ -37,7 +37,7 @@ public:
 };
 
 class Trie {
-private:
+private:    
     Node* root;
 
 public:
